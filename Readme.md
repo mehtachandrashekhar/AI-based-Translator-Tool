@@ -38,9 +38,9 @@ ai-language-translation/
 |   └── routes.py                   # reqeust api 
 │
 ├── models/
-│   └── trained_model.h5            # Pre-trained model (if available)
+│   └── dictionary.pkl              # Pre-trained model (if available)
 │
-├── src/
+├── notebook/
 │   ├── encoder_decoder.py          # Encoder-Decoder architecture
 │   ├── bidirectional_lstm.py       # Bidirectional LSTM implementation
 │   ├── embedding.py                # Embedding layer implementation
