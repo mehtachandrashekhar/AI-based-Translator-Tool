@@ -32,8 +32,10 @@ Once the model is trained, you can use it to translate sentences:
 ```
 ai-language-translation/
 │
-├── data/
-│   └── sample_dataset.txt          # Example dataset
+├── app/
+│   ├── __init__.py                 # initialization application
+|   ├── model.py                    # model from hugging face
+|   └── routes.py                   # reqeust api 
 │
 ├── models/
 │   └── trained_model.h5            # Pre-trained model (if available)
