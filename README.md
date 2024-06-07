@@ -35,21 +35,21 @@ ai-language-translation/
 ├── app/
 │   ├── __init__.py                 # initialization application
 |   ├── model.py                    # model from hugging face
-|   └── routes.py                   # reqeust api 
+|   └── routes.py                   # request api 
 │
 ├── models/
 │   └── dictionary.pkl              # Pre-trained model (if available)
 │
 ├── notebook/
-│   ├── testing.ipynb               # Encoder-Decoder architecture
-│   └── translator.ipynb            # Bidirectional LSTM implementation
+│   ├── testing.ipynb               # examplenotebook1
+│   └── translator.ipynb            # examplenotebook2
 │
-├── .gitignore                      # Python dependencies
-├── index.html                      # Python dependencies
-├── README.md                       # Project overview and instructions
-├── requirements.txt                # Python dependencies
-├── run.py                          # Project overview and instructions
-└── style.css                       # License information
+├── .gitignore                      # gitignore
+├── index.html                      # web-translator
+├── README.md                       # Readme.md
+├── requirements.txt                # python requirements
+├── run.py                          # app run
+└── style.css                       # styling to index.html
 ```
 
 ## License
