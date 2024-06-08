@@ -1,4 +1,6 @@
 flask
 transformers
 SentencePiece
+torch
+
 
