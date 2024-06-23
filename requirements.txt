@@ -1,6 +1,6 @@
 flask
 transformers
-SentencePiece
 torch
+streamlit
 
 
