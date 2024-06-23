@@ -60,3 +60,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project is inspired by various sequence-to-sequence models in natural language processing.
 - Thanks to the open-source community for providing valuable resources and tools.
+
+## Contributors
+
+<a href="https://github.com/mehtachandrashekhar/AI-based-Translator-Tool/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mehtachandrashekhar/AI-based-Translator-Tool" />
+</a>
